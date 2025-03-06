@@ -95,3 +95,16 @@ twitter-sentiment-analysis/
 - **Matplotlib Documentation:** [Matplotlib](https://matplotlib.org/stable/contents.html)
 
 
+## 🤝 Contributions
+I welcome all contributions! Feel free to fork the repository, submit issues, or create pull requests.
+
+## 📬 Contact
+For any questions or feedback, feel free to reach out:
+
+- **GitHub:** [NASO7Y](https://github.com/NASO7Y)
+- **Email:** ahmed.noshy2004@gmail.com
+- **LinkedIn:** [Ahmed Noshy](https://www.linkedin.com/in/nos7y/)
+
+
+---
+⭐ If you find this project helpful, consider giving it a star is support😂🌹
